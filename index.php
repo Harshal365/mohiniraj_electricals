@@ -298,19 +298,19 @@
                     <img src="./assets/caro1.png" class="d-block w-100" alt="Carousel Image 1">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/carousel_2.png" class="d-block w-100" alt="Carousel Image 2">
+                    <img src="./assets/caro3.png" class="d-block w-100" alt="Carousel Image 2">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/carousel_3.jpg" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro3.png" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/carousel_4.jpg" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro4.png" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/carousel_5.jpg" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro5.png" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/carousel_6.jpg" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro6.png" class="d-block w-100" alt="Carousel Image 3">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
