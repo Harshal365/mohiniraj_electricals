@@ -695,7 +695,7 @@
                 <div class="col-md-5 d-flex justify-content-center">
                     <div class="comp-details1">
                         <h1 class="text-head1">Who We Are?</h1>
-                        <h6 class="text-sub-head">Mohiniraj Electricals Pvt. Ltd. is based at Dhule, was established in the year 1988, providing the services of Supply, Installation, Testing and Commissioning in the Power Sector, The Enineering Team is highly experienced, technically qualified & dedicated with strong adherence to the quality is offering the services.</h6>
+                        <h6 class="text-sub-head">Mohiniraj Electricals Pvt. Ltd. is based at Dhule, was established in the year 1990, providing the services of Supply, Installation, Testing and Commissioning in the Power Sector, The Enineering Team is highly experienced, technically qualified & dedicated with strong adherence to the quality is offering the services.</h6>
                         <p class="comp-text text-sub-head">Our organization has a strong trained own workforce, who are well trained & equipped to handle problems expertly.</p>
                         <h6 class="text-sub-head2 italic">We do undertake special jobs like capacitor cell replacement, Earth wire replacement by OPGW in Live condition, Bay extension work at EHV levels</h6>
                         <p class="comp-text text-sub-head">We do provide expert services for Sub-Station SCADA implementation.</p>
@@ -715,41 +715,41 @@
                 
                 <h3>Mr. Kamalakar Kulkarni (Director)</h3>
 
-                <!-- <p class="text-grey2">Experience: Electrical & Electronics Engineer having varied experience of more than 30 years, in power Sector which involves Business Development, Product Applications & Execution of projects for Electricity Generation, Transmission & Distribution.</br></br>
+                 <!-- <p class="text-grey2">Experience: Electrical & Electronics Engineer having varied experience of more than 30 years, in power Sector which involves Business Development, Product Applications & Execution of projects for Electricity Generation, Transmission & Distribution.</br></br>
                      Portfolio: Business Policies, Service Vertical Development, Client Relations, Finance Control & Banking.</p> -->
                     
             </div>
             <!-- Director 2 -->
-            <div class="box">
+            <!-- <div class="box">
                 <img src="./assets/aai_pass.png" alt="Director 2">
                 
                 <h3>Mrs. Vidya Kulkarni (Director)</h3>
 
-                <!-- <p class="text-grey2">Experience: Electronics Engineer Experienced with 28 years of Power Sector which involves Business Development, EPC Project execution, Smart Management of Manpower, Critical Execution of work in Outages.</br></br>
-                     Portfolio: Testing of Electrical Equipments, Operations and Execution, Outsourcing Vendor Control, Client Lisoning.</p> -->
+                <p class="text-grey2">Experience: Electronics Engineer Experienced with 28 years of Power Sector which involves Business Development, EPC Project execution, Smart Management of Manpower, Critical Execution of work in Outages.</br></br>
+                     Portfolio: Testing of Electrical Equipments, Operations and Execution, Outsourcing Vendor Control, Client Lisoning.</p>
                     
-            </div>
+            </div> -->
             <div class="box">
                 <img src="./assets/PassPhoto-mod.png" alt="Director 3">
                 
-                <h3>Mr. Vedant Kulkarni (Associate Technical Director)</h3>
+                <h3>Mr. Vedant Kulkarni (CEO)</h3>
 
                 <!-- <p class="text-grey2">Experience: BE (Electrical) having 5 years of experience as Engineer.<br></br>
                     Portfolio: Responsible for technical confirmations of project contracts & work executions.</p> -->
             
         </div>
-        <div class="box">
+        <!-- <div class="box">
             <img src="./assets/pri-pass.png" alt="Director 4">
             
             <h3>Mrs. Priyanka Kulkarni (CEO)</h3>
 
-            <!-- <p class="text-grey2">Experience: 35 years of Power Sector. Retired Superintending 
+             <p class="text-grey2">Experience: 35 years of Power Sector. Retired Superintending 
                 Engineer Testing and Communication Circle (MSETCL) – Maharashtra State Electricity Transmission 
                 Company Limited, Vashi, Navi Mumbai.</br></br>
                 Portfolio: Testing of Electrical Equipments, Fault analysis, Technical confirmation for Bidding, Planning co-ordination and
-                Man-Machine Management.</p> -->
+                Man-Machine Management.</p>
             
-        </div>
+        </div> -->
             </div>
             <div class="d-flex justify-content-center board">
             
@@ -882,7 +882,7 @@
                 <div class="container d-flex">
                     <div class="comp-details">
                     <img class="comp-logo" src="./assets/MohinirajLogo2.png" alt="company-logo">
-                        <p class="comp-text"> Mob: 9422214302 <br/> E-mail: mohinirajelectricals@gmail.com</p>
+                        <p class="comp-text"> Mob: +91 8806004602 <br/> E-mail: mohinirajelectricals@gmail.com</p>
                     </div>
                     <div class="imp-links">
                         <!-- <thead><h5 class="text-center">Important links:</h5></thead> -->

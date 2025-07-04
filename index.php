@@ -295,23 +295,32 @@
         <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./assets/caro1.png" class="d-block w-100" alt="Carousel Image 1">
+                    <img src="./assets/caro1.PNG" class="d-block w-100" alt="Carousel Image 1">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/caro3.png" class="d-block w-100" alt="Carousel Image 2">
+                    <img src="./assets/caro2.PNG" class="d-block w-100" alt="Carousel Image 2">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/caro3.png" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro3.PNG" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/caro4.png" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro4.PNG" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/caro5.png" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro5.PNG" class="d-block w-100" alt="Carousel Image 3">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/caro6.png" class="d-block w-100" alt="Carousel Image 3">
+                    <img src="./assets/caro6.PNG" class="d-block w-100" alt="Carousel Image 3">
                 </div>
+                <div class="carousel-item">
+                    <img src="./assets/caro8.PNG" class="d-block w-100" alt="Carousel Image 3">
+                </div>
+                <!-- <div class="carousel-item active">
+                    <img src="./assets/caro11.png" class="d-block w-100" alt="Carousel Image 1">
+                </div>
+                <div class="carousel-item active">
+                    <img src="./assets/caro12.png" class="d-block w-100" alt="Carousel Image 1">
+                </div> -->
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -442,7 +451,7 @@
                 <div class="container d-flex">
                     <div class="comp-details">
                         <img class="comp-logo" src="./assets/MohinirajLogo2.png" alt="company-logo">
-                        <p class="comp-text"> Mob: 9422214302 <br/> E-mail: mohinirajelectricals@gmail.com</p>
+                        <p class="comp-text"> Mob: +91 8806004602 <br/> E-mail: mohinirajelectricals@gmail.com</p>
                     </div>
                     <div class="imp-links">
                         <!-- <thead><h5 class="text-center">Important links:</h5></thead> -->

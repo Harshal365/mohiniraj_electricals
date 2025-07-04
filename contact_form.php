@@ -318,10 +318,10 @@
                     <div class="contact-img-info">
                         <p class="add text-center"><strong>Address:</strong><br/>
                             43, Neharu Housing Society, Navarang Colony,
-                            Near Water Navarang Tank, Deopur, Dhule - 424002.
+                            Near Water Navarang Tank, Deopur, Dhule - 424005.
                         </p>
                         <p class="add text-center"><strong>Contact Numbers:</strong><br/>
-                            9422214302 / 8888084602
+                            8806004602 / 8888084602
                         </p>
                     </div>
                 </div>
@@ -361,7 +361,7 @@
                 <div class="container d-flex justify-content-between">
                     <div class="comp-details">
                     <img class="comp-logo" src="./assets/MohinirajLogo2.png" alt="company-logo">
-                        <p class="comp-text"> Mob: 9422214302 <br/> E-mail: mohinirajelectricals@gmail.com</p>
+                        <p class="comp-text"> Mob: +91 8806004602 <br/> E-mail: mohinirajelectricals@gmail.com</p>
                     </div>
                     <div class="imp-links">
                         <!-- <thead><h5 class="text-center">Important links:</h5></thead> -->

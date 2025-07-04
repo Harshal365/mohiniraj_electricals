@@ -416,7 +416,7 @@
                 <div class="container d-flex">
                     <div class="comp-details">
                     <img class="comp-logo" src="./assets/MohinirajLogo2.png" alt="company-logo">
-                        <p class="comp-text"> Mob: 9422214302 <br/> E-mail: mohinirajelectricals@gmail.com</p>
+                        <p class="comp-text"> Mob: +91 8806004602 <br/> E-mail: mohinirajelectricals@gmail.com</p>
                     </div>
                     <div class="imp-links">
                         <!-- <thead><h5 class="text-center">Important links:</h5></thead> -->
