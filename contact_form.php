@@ -98,7 +98,7 @@
             width: 50%;
         }
         .contact-img{
-            width: 50%;
+            width: 70%;
         }
 
         .form-container{
@@ -313,8 +313,9 @@
         <h2 class="text-center my-6" >Reach to Us</h2>
             <div class="col-lg-12 col-xl-6 form-container">
                 <div class="form-image d-flex flex-column">
-                    <img src="./assets/onboarding-state-feedback (1).png" alt="contact-image" class="contact-img">
-                    <img src="./assets/MohinirajLogo2.png" alt="" class="form-image m-5">
+                    <img src="./assets/Contact_Img.PNG" alt="contact-image" class="contact-img">
+                    <!-- <img src="./assets/onboarding-state-feedback (1).png" alt="contact-image" class="contact-img"> -->
+                    <!-- <img src="./assets/MohinirajLogo2.png" alt="" class="form-image m-5"> -->
                     <div class="contact-img-info">
                         <p class="add text-center"><strong>Address:</strong><br/>
                             43, Neharu Housing Society, Navarang Colony,
